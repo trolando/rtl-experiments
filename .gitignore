@@ -1,0 +1,3 @@
+inputs/synt/*.pg
+inputs/modelchecking/*.bz2
+inputs/equivchecking/*.bz2
