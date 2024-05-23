@@ -1,0 +1,14 @@
+[    0.86] parity game with 867889 nodes and 4933009 edges.
+[    0.89] parity game reindexed
+[    0.92] parity game renumbered (2 priorities)
+[    0.92] solving using parallel Zielonka
+[    0.92] initialized Lace with 1 workers
+[    1.06] solved with 2 iterations.
+[    1.06] preprocessing took 0.000334 sec.
+[    1.06] solving took 0.146230 sec.
+[    1.06] total solving time: 0.146581 sec.
+[    1.06] verifying solution...
+[    1.08] solution verified (289296 strategies).
+[    1.08] verification took 0.016285 sec.
+[    1.08] current memory usage: 109.83 MB
+[    1.08] peak memory usage: 1.358 GB

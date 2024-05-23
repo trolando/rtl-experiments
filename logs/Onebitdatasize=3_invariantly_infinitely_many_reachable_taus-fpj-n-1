@@ -1,0 +1,13 @@
+[    0.87] parity game with 867889 nodes and 4933009 edges.
+[    0.90] parity game reindexed
+[    0.93] parity game renumbered (2 priorities)
+[    0.93] solving using fixpoint iteration with justifications
+[    0.94] solved with 1 iterations.
+[    0.94] preprocessing took 0.000355 sec.
+[    0.94] solving took 0.015616 sec.
+[    0.94] total solving time: 0.015983 sec.
+[    0.94] verifying solution...
+[    0.95] solution verified (289296 strategies).
+[    0.95] verification took 0.009246 sec.
+[    0.95] current memory usage: 89.90 MB
+[    0.95] peak memory usage: 96.43 MB

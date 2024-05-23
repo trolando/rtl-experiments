@@ -1,0 +1,6 @@
+Lace fatal error: Task stack overflow! Aborting.
+[   12.84] parity game with 27876961 nodes and 58309201 edges.
+[   12.86] parity game reindexed
+[   13.11] parity game renumbered (1 priorities)
+[   13.11] solving using parallel Zielonka
+[   13.11] initialized Lace with 1 workers

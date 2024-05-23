@@ -1,0 +1,14 @@
+[   31.47] parity game with 32926785 nodes and 167527601 edges.
+[   35.62] parity game reindexed
+[   36.57] parity game renumbered (2 priorities)
+[   36.57] solving using one-sided recursive tangle learning
+[   42.16] found 1 dominions and 4619 tangles.
+[   42.16] solved in 1 iterations.
+[   42.19] preprocessing took 0.012093 sec.
+[   42.19] solving took 5.627589 sec.
+[   42.19] total solving time: 5.639704 sec.
+[   42.19] verifying solution...
+[   43.16] solution verified (29034912 strategies).
+[   43.16] verification took 0.966392 sec.
+[   43.16] current memory usage: 2.905 GB
+[   43.16] peak memory usage: 3.942 GB

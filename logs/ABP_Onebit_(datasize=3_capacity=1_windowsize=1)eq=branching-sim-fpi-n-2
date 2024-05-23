@@ -1,0 +1,14 @@
+[   18.58] parity game with 31611530 nodes and 87556070 edges.
+[   21.65] parity game reindexed
+[   22.26] parity game renumbered (2 priorities)
+[   22.26] solving using fixpoint iteration
+[   22.26] initialized Lace with 1 workers
+[   38.67] solved with 204 iterations.
+[   38.68] preprocessing took 0.011785 sec.
+[   38.68] solving took 16.416818 sec.
+[   38.68] total solving time: 16.428620 sec.
+[   38.68] verifying solution...
+[   39.53] solution verified (16546142 strategies).
+[   39.53] verification took 0.854962 sec.
+[   39.53] current memory usage: 2.211 GB
+[   39.53] peak memory usage: 3.696 GB

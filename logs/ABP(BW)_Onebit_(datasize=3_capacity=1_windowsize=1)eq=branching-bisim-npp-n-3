@@ -1,0 +1,15 @@
+[   23.93] parity game with 40556396 nodes and 112380248 edges.
+[   27.90] parity game reindexed
+[   28.64] parity game renumbered (2 priorities)
+[   28.64] solving using priority promotion NPP
+[   35.09] solved with 19 total queries and 0 total promotions;
+[   35.09]             2 max queries and 0 max promotions;
+[   35.09]             10 dominions.
+[   35.09] preprocessing took 0.015378 sec.
+[   35.09] solving took 6.458459 sec.
+[   35.09] total solving time: 6.473850 sec.
+[   35.09] verifying solution...
+[   36.14] solution verified (21149750 strategies).
+[   36.14] verification took 1.041750 sec.
+[   36.14] current memory usage: 2.870 GB
+[   36.14] peak memory usage: 3.323 GB

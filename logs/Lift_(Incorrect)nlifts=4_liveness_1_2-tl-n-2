@@ -1,0 +1,14 @@
+[    1.74] parity game with 1997579 nodes and 9752561 edges.
+[    1.78] parity game reindexed
+[    1.84] parity game renumbered (4 priorities)
+[    1.84] solving using tangle learning
+[    2.09] found 3 dominions and 0 tangles.
+[    2.09] solved in 3 iterations.
+[    2.09] preprocessing took 0.000783 sec.
+[    2.09] solving took 0.254995 sec.
+[    2.09] total solving time: 0.255793 sec.
+[    2.09] verifying solution...
+[    2.15] solution verified (1638743 strategies).
+[    2.15] verification took 0.052077 sec.
+[    2.15] current memory usage: 203.07 MB
+[    2.15] peak memory usage: 253.14 MB
